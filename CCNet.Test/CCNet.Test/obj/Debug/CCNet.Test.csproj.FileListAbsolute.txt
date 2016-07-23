@@ -1,0 +1,6 @@
+D:\Projects\GitProjects\ccnet.test\CCNet.Test\CCNet.Test\bin\CCNet.Test.dll.config
+D:\Projects\GitProjects\ccnet.test\CCNet.Test\CCNet.Test\bin\CCNet.Test.dll
+D:\Projects\GitProjects\ccnet.test\CCNet.Test\CCNet.Test\bin\CCNet.Test.pdb
+D:\Projects\GitProjects\ccnet.test\CCNet.Test\CCNet.Test\obj\Debug\CCNet.Test.csprojResolveAssemblyReference.cache
+D:\Projects\GitProjects\ccnet.test\CCNet.Test\CCNet.Test\obj\Debug\CCNet.Test.dll
+D:\Projects\GitProjects\ccnet.test\CCNet.Test\CCNet.Test\obj\Debug\CCNet.Test.pdb
