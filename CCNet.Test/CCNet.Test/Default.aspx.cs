@@ -12,6 +12,7 @@ namespace CCNet.Test
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("hello world");
+            Response.Write("你好");
         }
     }
 }
